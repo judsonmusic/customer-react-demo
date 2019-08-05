@@ -1,0 +1,31 @@
+
+.container{
+ padding: 20px;
+}
+.navbar-custom {
+  color: #FFFFFF !important;
+  background-color: #336699 !important;
+}
+.navbar-custom a {
+  color: #FFFFFF !important;
+  background-color: #336699 !important;  
+}
+.navbar-custom a:first-child {
+  padding: 0;
+}
+
+footer{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #666666;
+  color: white;
+  height: 50px;
+  text-align: center;
+  padding-top: 10px;
+}
+pre , code {  
+  white-space: pre-wrap !important;
+  word-wrap: break-word !important;
+}
